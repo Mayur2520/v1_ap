@@ -1,0 +1,45 @@
+{
+  "_from": "cordova-plugin-pdf-viewer-android",
+  "_id": "cordova-plugin-pdf-viewer-android@1.1.2",
+  "_inBundle": false,
+  "_integrity": "sha512-y6sEscS1E6X0MHdy5tXAX2wRvP5Q4eWgQAMPnbttoOTMevLGFacHWAlkxUDMoNLCnGQXv7gGJHSbYFed2g+raQ==",
+  "_location": "/cordova-plugin-pdf-viewer-android",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-pdf-viewer-android",
+    "name": "cordova-plugin-pdf-viewer-android",
+    "escapedName": "cordova-plugin-pdf-viewer-android",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-pdf-viewer-android/-/cordova-plugin-pdf-viewer-android-1.1.2.tgz",
+  "_shasum": "a8eed991c8ff815f8ea9b3c492a5209830b86da8",
+  "_spec": "cordova-plugin-pdf-viewer-android",
+  "_where": "D:\\Mayur 23-7-18\\2019\\CORDOVA\\shoper",
+  "author": {
+    "name": "Flavien"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-pdf-viewer-android",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "This cordova plugin uses com.github.barteksc:android-pdf-viewer project and show a PDF reader with a callback button(optional)",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-pdf-viewer-android",
+  "version": "1.1.2"
+}
